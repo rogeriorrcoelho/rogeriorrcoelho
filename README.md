@@ -1,6 +1,7 @@
 # Rogério Coelho
 
-**`Cientista de Dados`**
+![Cientista de Dados](https://img.shields.io/badge/-Cientista%20de%20Dados-FFD700?style=flat&logoColor=black)
+
 Sou um profissional de TI atuando há mais de 3 anos em projetos de análise ciência de dados, construção de modelos de machine learning, análise exploratória de dados e desenvolvimento de soluções analíticas. Especialista em traduzir necessidades de negócios em projetos de dados estratégicos, conectando equipes técnicas e operacionais para garantir que insights analíticos sejam transformados em ações concretas e impactantes.
 Possuo vivência em setores como financeiro, farmacêutico, aeroespacial, telecomunicações, serviços digitais, petroquímico e educação.
 Identifico e priorizo problemas empresariais que podem ser resolvidos por meio de analytics, facilitando a comunicação entre stakeholders e equipes técnicas. Domínio em storytelling analítico e visualização de dados para diferentes públicos, promovendo a adoção de soluções analíticas no contexto corporativo. MBA em Data Science & Analytics pela USP-ESALQ e formação complementar em gestão avançada de projetos. Certificado em frameworks ágeis e metodologias analíticas.Profissional experiente, com visão estratégica e foco em resultados, especializado na aplicação de modelos de machine learning para impulsionar objetivos de negócios. Hábil em transformar dados em insights acionáveis, orientando decisões estratégicas com base em evidências concretas e impulsionando a inovação por meio da inteligência analítica.
@@ -14,10 +15,8 @@ Realizações/Resultados:
 - Entrega de Análise Exploratória: Impacto social, Identificação dos pontos de melhoria operacional e sustentabilidade financeira.
 - Entrega de Modelo de Machine Learning (modelagem multinível HLM2) para microempresa do mercado de produtos orgânicos.
 
-LinkedIn
-[Rogério Coelho](https://www.linkedin.com/in/rogeriocoelho/).
-
 <p align="left">
+    <!--
     <a href="https://github.com/rogeriorrcoelho?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -32,6 +31,15 @@ LinkedIn
             src="https://custom-icon-badges.demolab.com/github/followers/rogeriorrcoelho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    -->
+    <a href="https://linkedin.com/in/rogeriocoelho" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white"
+        />
+    </a>
+    
 </p>
 
 ---
