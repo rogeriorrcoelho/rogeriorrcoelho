@@ -12,7 +12,7 @@ Identifico e priorizo problemas empresariais que podem ser resolvidos por meio d
 - <strong>Churn - Regressão Logística</strong> Criar e avaliar um modelo estatístico preditivo capaz de estimar quais beneficiários têm maior risco de evasão. Identificar os fatores relacionados à evasão (cancelamento) de beneficiários de um plano de saúde e gerar insights que ajudem a reduzir o churn.
 - <strong>Regressão Multinível Tipo 2 (HLM2)</strong> Revenda de produtos orgânicos: análise dos preços dos pedidos por meio da modelagem multinível, criação de modelo multinível HLM2 para microempresa do mercado de produtos orgânicos.
 - <strong>Clustering</strong> Encontrar as similaridades (grupos mais similares) com base nas as preferências de atividades indicadas por cada funcionário.A pesquisa conta com aproximadamente 4.000 funcionários, onde cada um selecionou as três atividades de lazer de sua preferência a partir de uma lista de 45 opções.
-- <strong>Projeto Social - Marmitas</strong> Entrega de Análise Exploratória: Impacto social, Identificação dos pontos de melhoria operacional e sustentabilidade financeira.
+- <strong>Projeto Social</strong> Entrega de Análise Exploratória: Impacto social, Identificação dos pontos de melhoria operacional e sustentabilidade financeira.
 - <strong>Regressão Logística</strong> Análise e ajuste de modelo de regressão logística (comprimento telomérico como biomarcador de resposta ao tratamento imunoterápico do cancer)
 - Análise Exploratória (imobiliária). 
 - <strong>Regressão Linear</strong> Construção de modelo de regressão linear para previsão/estimativa do tempo de venda do imóvel.
