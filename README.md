@@ -8,6 +8,17 @@ Identifico e priorizo problemas empresariais que podem ser resolvidos por meio d
 
 ---
 
+<p>
+  <img 
+    align="left" 
+    height="200" 
+    src="https://github.com/rogeriorrcoelho/exp_prof_formacao_github.png" 
+  />
+</p>
+
+---
+
+
 ### Realizações/Resultados:
 - <strong>Churn - Regressão Logística</strong> Criar e avaliar um modelo estatístico preditivo capaz de estimar quais beneficiários têm maior risco de evasão. Identificar os fatores relacionados à evasão (cancelamento) de beneficiários de um plano de saúde e gerar insights que ajudem a reduzir o churn.
 - <strong>Regressão Multinível Tipo 2 (HLM2)</strong> Revenda de produtos orgânicos: análise dos preços dos pedidos por meio da modelagem multinível, criação de modelo multinível HLM2 para microempresa do mercado de produtos orgânicos.
