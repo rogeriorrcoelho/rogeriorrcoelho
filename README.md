@@ -8,13 +8,13 @@ Identifico e priorizo problemas empresariais que podem ser resolvidos por meio d
 
 ---
 
-<p>
-  <img 
-    align="left" 
-    height="200" 
-    src="https://github.com/rogeriorrcoelho/exp_prof_formacao_github.png" 
-  />
-</p>
+<img 
+  src="https://github.com/rogeriorrcoelho/rogeriorrcoelho/blob/main/expprof_form.png" 
+  alt="Formação e experiência profissional"
+  align="left"
+  height="200"
+/>
+<br clear="left" />
 
 ---
 
